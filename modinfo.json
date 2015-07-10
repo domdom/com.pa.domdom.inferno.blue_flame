@@ -5,9 +5,9 @@
     "description": "Makes the inferno flame blue instead of red.",
     "author": "dom314",
     "forum": "https://forums.uberent.com/threads/wip-client-more-pew-pew-requesting-opinions.69025/",
-    "icon": "http://i.imgur.com/PQOpc3u.gif",
+    "icon": "http://i.imgur.com/OSNs7xd.png",
     "version": "0.1.0",
-    "priority": 100,
+    "priority": 99,
     "build": "83796",
     "date": "2015/07/10"
 }
